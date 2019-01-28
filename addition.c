@@ -7,7 +7,7 @@ printf("enter the two numbers");
 scanf("%d",&a);
 scanf("%d",&b);
 c=add(a,b);
-printf("addition is %d",c);
+printf("Add is %d",c);
 }
 int add(int a,int b)
 {
